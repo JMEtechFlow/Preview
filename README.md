@@ -1,3 +1,12 @@
+<p align="center">
+  <img
+    src="./jamie-waving.png.png"
+    alt="Jamie waving hello"
+    width="350"
+  />
+</p>
+
+
 Hi, I'm Jamie 👋🏾
 
 Welcome to the place where I document the moments that make me stop and say:
