@@ -8,12 +8,15 @@
 
 
 Hi, I'm Jamie 👋🏾
-
+===========================================================================================================================
 Welcome to the place where I document the moments that make me stop and say:
+
 
 “Ohhh... now I get it!”
 
+
 So, this is sort of part lab, part notebook, and part tech brain dump.
+
 
 
 
@@ -21,13 +24,11 @@ I created this space to make sense of what I am learning along the way. My goal 
 
 <p align="center">
   <img
-    src="./jamie-vineyard-animated.gif.png"
-    alt="Jamie walking through a vineyard"
-    width="600"
+    src="./jamie-vineyard-floating-words.gif"
+    alt="Jamie walking through a vineyard with floating GitHub topics"
+    width="500"
   />
 </p>
- 
-
 
 
 This GitHub is not a collection of everything I know. It is a record of everything I am learning.
